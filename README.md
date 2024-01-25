@@ -1,2 +1,2 @@
 # Resource-Alocator
-Implementing role-based access control ensures that only authorized personnel have the ability to allocate and manage resources, maintaining data security and integrity.
+The "One Team Resource Allocator" is a live project developed exclusively on the Django backend for One Team Solution. This innovative system is designed to seamlessly manage and allocate crucial resources within the company, focusing on trainers, students, classrooms, and laptops.Implementing role-based access control ensures that only authorized personnel have the ability to allocate and manage resources, maintaining data security and integrity.
